@@ -1,3 +1,5 @@
+![alt text](https://github.com/RakhaFe21/HackathonProject/blob/master/arsitektur%20otomatisasi.jpeg?raw=true)
+
 # HackathonProject
 
 Nama saya Rakha Febryza Rasendriya. Asal sekolah SMK Telkom Purwokerto. Disini saya mengambil project tema 1
